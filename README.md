@@ -1,5 +1,3 @@
-por
-
 # **Prediction of Residential Energy Consumption Using Machine Learning**
 
 ## Resumo
