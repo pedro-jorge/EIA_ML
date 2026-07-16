@@ -8,6 +8,8 @@ Esse trabalho utiliza modelos clássicos de aprendizado de máquina, Random Fore
 
 Todo o trabalho pode ser reproduzido rodando o arquivo `main.ipynb`, um Jupyter Notebook com todos o passo a passo e comentários do que foi feito.
 
+A apresentação está disponível no [Canva.](https://canva.link/xpgcwqvohcnhs3g)
+
 ---
 
 ## Objetivos
